@@ -22,7 +22,7 @@ Knowledge of python programming Basics of linear algebra and statistics
 Google Collab, Google Cloud, Python Jupyter
  
 
-![bone](assets/016P3_25.JPG)
+![bone](assets/f127.png)
 
 # Labs:
 
