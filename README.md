@@ -24,9 +24,14 @@ Google Collab, Google Cloud, Python Jupyter
 
 ![bone](assets/f127.png)
 
+
 # Labs:
 
 ## Lab 0001: Deep Learning Computer Vision Crash Course with PyTorch 0.4 /1.0
+
+![bone](assets/jupyter_colab.png)
+
+<img src="https://github.com/deeponcology/PyTorchMedicalAI/raw/master/assets/tumor_visdom.jpg" align="center" width=30%>
 
 - Collab Jupyter: https://colab.research.google.com/drive/1JEIeD_445sFvcjSrITB5Z_oW8VHRS_kA
  
