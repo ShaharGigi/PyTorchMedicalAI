@@ -23,9 +23,6 @@ Knowledge of python programming Basics of linear algebra and statistics
 ## Environment : 
 Google Collab, Google Cloud, Python Jupyter
  
-## Packages: 
-numpy, pytorch, torchvision, matplotlib. Python 3.5+, CUDA 9, cuDNN 7, PyTorch 0.4 / 1.0 
-PyTorch and torchvision wheels are available on http://pytorch.org
 
 ![bone](assets/016P3_25.JPG)
 
@@ -43,11 +40,13 @@ This is a provisional curriculum, which is subject to change without notice.
 
 
 ### Requirements
+  
 
 - Ubuntu Linux 16.04, Mac OSX or Windows 10
-- Python 3.5 or above 
-- CUDA 9.0 drivers.
+- Python 3.5+ or above 
+- CUDA 9.2 drivers.
 - cuDNN 7.0.
+- PyTorch and torchvision wheels are available on http://pytorch.org
 - [pytorch](https://github.com/pytorch/pytorch) >= 0.4.0
 - [torchvision](https://github.com/pytorch/vision) 
 - [Pillow](https://github.com/python-pillow/Pillow)
@@ -69,8 +68,6 @@ say you name your dataset folder 'data_directory'. Then inside 'data_directory' 
 Further, Inside 'train' will be 2 folders - 'ships', 'icebergs'. 
 
 ## So, the structure looks like this: 
-
-![curve](assets/dataset.png)
 
 ```
 |-  data_dir
