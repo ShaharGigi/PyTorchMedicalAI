@@ -1,5 +1,5 @@
 
-#Applied Medical Deep Learning, 2019
+# Applied Medical Deep Learning, 2019
 
 Github: https://github.com/deeponcology/PyTorchMedicalAI
 
