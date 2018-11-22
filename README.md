@@ -26,7 +26,35 @@ Google Collab, Google Cloud, Python Jupyter
 
 ![bone](assets/016P3_25.JPG)
 
-## Old Labs:
+# Labs:
+
+## Lab 0001: Deep Learning Computer Vision Crash Course with PyTorch 0.4 /1.0 
+
+PyTorch is an open source deep learning framework that’s quickly become popular with AI researchers for its ease of use, clean Pythonic API, and flexibility. With the preview release of PyTorch 1.0, developers can now seamlessly move from exploration to production deployment using a single, unified framework.
+
+### DevOps for PyTorch on Google Cloud
+
+  - Google Collab setup
+  - Running a CUDA program in C from Python   
+
+### PyTorch 0.4 Intensive, data engineering 
+
+  - PyTorch Tensors on the GPU
+  - Basics of PyTorch Data Loaders
+  - Standard PyTorch Augmentations (Transforms)
+  - Writing custom PyTorch Augmentations (RandomErasing)
+  - SOTA Augmentation libraries (Albumentations) 
+
+## Lab 0002: PyTorch 0.4 Intensive, CNN’s 
+
+  - Basic 1d CNN’s in PyTorch 
+  - Basic 2d CNN’s in PyTorch 
+  - Basic 3d CNN’s in PyTorch (Optional ...) 
+
+## Kaggle:
+  - Histopathology Images  
+ 
+#Old Labs:
 - Lab 01 (old version)- Melanoma Classification: https://github.com/bayesianio/applied-dl-2018/blob/master/lab-0-SeNet-SeedLings.ipynb and https://bayesian-ai.trydiscourse.com/t/12-applied-deep-learning-labs-1-melanoma-detection/20
 - Lab 02 (old version)- Breast Cancer Classification: https://github.com/bayesianio/applied-dl-2018/blob/master/lab-2-Breast-Cancer-Histopathology-SeNet.ipynb and https://bayesian-ai.trydiscourse.com/t/12-applied-deep-learning-labs-2-breast-cancer-classification/21
 
