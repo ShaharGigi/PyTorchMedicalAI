@@ -3,13 +3,13 @@
 
 Github: https://github.com/deeponcology/PyTorchMedicalAI
 
-## Old course available at: https://github.com/deeponcology/applied-dl-2018
+## Old course:
+- https://github.com/deeponcology/applied-dl-2018
+- The curriculum of the first 2018 course: http://deep-ml.com/assets/5daydeep/#/
 
 ## Author
-Contact: Shlomo Kashani, Head of AI at DeepOncology AI, 
+Shlomo Kashani, Head of AI at DeepOncology AI, 
 Kaggle Expert, Founder of Tel-Aviv Deep Learning Bootcamp: shlomo@deeponcology.ai
-
-![bone](assets/016P3_25.JPG)
 
 ![bone](assets/f099.png)
 
@@ -17,6 +17,19 @@ Kaggle Expert, Founder of Tel-Aviv Deep Learning Bootcamp: shlomo@deeponcology.a
 
 # Labs:
 
+## Requirements: 
+Knowledge of python programming Basics of linear algebra and statistics 
+
+## Environment : 
+Google Collab, Google Cloud, Python Jupyter
+ 
+## Packages: 
+numpy, pytorch, torchvision, matplotlib. Python 3.5+, CUDA 9, cuDNN 7, PyTorch 0.4 / 1.0 
+PyTorch and torchvision wheels are available on http://pytorch.org
+
+![bone](assets/016P3_25.JPG)
+
+## Old Labs:
 - Lab 01 (old version)- Melanoma Classification: https://github.com/bayesianio/applied-dl-2018/blob/master/lab-0-SeNet-SeedLings.ipynb and https://bayesian-ai.trydiscourse.com/t/12-applied-deep-learning-labs-1-melanoma-detection/20
 - Lab 02 (old version)- Breast Cancer Classification: https://github.com/bayesianio/applied-dl-2018/blob/master/lab-2-Breast-Cancer-Histopathology-SeNet.ipynb and https://bayesian-ai.trydiscourse.com/t/12-applied-deep-learning-labs-2-breast-cancer-classification/21
 
