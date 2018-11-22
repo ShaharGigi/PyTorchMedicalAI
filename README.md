@@ -29,7 +29,7 @@ Google Collab, Google Cloud, Python Jupyter
 
 ## Lab 0001: Deep Learning Computer Vision Crash Course with PyTorch 0.4 /1.0
 
-<img src="https://github.com/deeponcology/PyTorchMedicalAI/raw/master/assets/jupyter_colab.png" align="center" width=20%>
+<img src="https://github.com/deeponcology/PyTorchMedicalAI/raw/master/assets/jupyter_colab.png" align="center" width=15%>
 
 - Collab Jupyter: https://colab.research.google.com/drive/1JEIeD_445sFvcjSrITB5Z_oW8VHRS_kA
  
@@ -54,6 +54,7 @@ PyTorch is an open source deep learning framework that’s quickly become popula
   - SOTA Augmentation libraries (Albumentations) 
 
 ## Lab 0002: PyTorch 0.4 Intensive, CNN’s for Classification  
+<img src="https://github.com/deeponcology/PyTorchMedicalAI/raw/master/assets/jupyter_colab.png" align="center" width=15%>
  
   
 ![bone](assets/class1.png)
@@ -61,8 +62,10 @@ PyTorch is an open source deep learning framework that’s quickly become popula
 ## Lab 0003: PyTorch 0.4 Intensive, CNN's for Segmentation 
    
 ![bone](assets/seg1.png)
+<img src="https://github.com/deeponcology/PyTorchMedicalAI/raw/master/assets/jupyter_colab.png" align="center" width=15%>
 
 ## Lab 0004: PyTorch 0.4 Intensive, CNN's for Detection 
+<img src="https://github.com/deeponcology/PyTorchMedicalAI/raw/master/assets/jupyter_colab.png" align="center" width=15%>
    
 ![bone](assets/detect1.png)
 
