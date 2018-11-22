@@ -55,11 +55,18 @@ PyTorch is an open source deep learning framework that’s quickly become popula
   - Writing custom PyTorch Augmentations (RandomErasing)
   - SOTA Augmentation libraries (Albumentations) 
 
-## Lab 0002: PyTorch 0.4 Intensive, CNN’s 
+## Lab 0002: PyTorch 0.4 Intensive, CNN’s for Classification  
+ 
+  
+![bone](assets/class1.png)
 
-  - Basic 1d CNN’s in PyTorch 
-  - Basic 2d CNN’s in PyTorch 
-  - Basic 3d CNN’s in PyTorch (Optional ...) 
+## Lab 0003: PyTorch 0.4 Intensive, CNN's for Segmentation 
+   
+![bone](assets/seg1.png)
+
+## Lab 0004: PyTorch 0.4 Intensive, CNN's for Detection 
+   
+![bone](assets/detect1.png)
 
 ## Kaggle:
   - Histopathology Images  
