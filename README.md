@@ -26,7 +26,11 @@ Google Collab, Google Cloud, Python Jupyter
 
 # Labs:
 
-## Lab 0001: Deep Learning Computer Vision Crash Course with PyTorch 0.4 /1.0 
+## Lab 0001: Deep Learning Computer Vision Crash Course with PyTorch 0.4 /1.0
+ 
+- Git: https://github.com/deeponcology/PyTorchMedicalAI/blob/master/shlomo_dl_0001_cuda_collab_pytorch.ipynb
+
+- Collab:  
 
 PyTorch is an open source deep learning framework that’s quickly become popular with AI researchers for its ease of use, clean Pythonic API, and flexibility. With the preview release of PyTorch 1.0, developers can now seamlessly move from exploration to production deployment using a single, unified framework.
 
