@@ -6,13 +6,12 @@ Github: https://github.com/deeponcology/PyTorchMedicalAI
 ## Old course available at: https://github.com/deeponcology/applied-dl-2018
 
 ## Author
-Shlomo Kashani, Head of Deep Learning at  http://DeepOncology.ai
+Contact: Shlomo Kashani, Head of AI at DeepOncology AI, 
+Kaggle Expert, Founder of Tel-Aviv Deep Learning Bootcamp: shlomo@deeponcology.ai
 
-![bone](assets/f127.png)
+![bone](assets/016P3_25.JPG)
 
-![bone](melanoma.png)
-
-![bone](bone.png)
+![bone](assets/f099.png)
 
 # Google Collab + PyTorch Notebooks:
 
