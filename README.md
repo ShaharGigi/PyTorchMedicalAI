@@ -1,6 +1,6 @@
 # Applied Medical Deep Learning, 2019
 
-![bone](assets/7C4FCB54-6A0A-433F-A432-662C2E326381.png)
+![bone](assets/7C4FCB54-6A0A-433F-A432-662C2E326381.pngss)
 
 Github: https://github.com/deeponcology/PyTorchMedicalAI
 
