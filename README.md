@@ -1,6 +1,6 @@
 # Applied Medical Deep Learning, 2019
 
-![bone](assets/f099.png)
+![bone](assets/7C4FCB54-6A0A-433F-A432-662C2E326381.png)
 
 Github: https://github.com/deeponcology/PyTorchMedicalAI
 
@@ -12,6 +12,7 @@ Github: https://github.com/deeponcology/PyTorchMedicalAI
 Shlomo Kashani, Head of AI at DeepOncology AI, 
 Kaggle Expert, Founder of Tel-Aviv Deep Learning Bootcamp: shlomo@deeponcology.ai
 
+![bone](assets/f079.png)
 
 # Google Collab + PyTorch Notebooks:
 
