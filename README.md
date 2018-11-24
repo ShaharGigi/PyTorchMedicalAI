@@ -12,7 +12,7 @@ Github: https://github.com/deeponcology/PyTorchMedicalAI
 Shlomo Kashani, Head of AI at DeepOncology AI, 
 Kaggle Expert, Founder of Tel-Aviv Deep Learning Bootcamp: shlomo@deeponcology.ai
 
-![bone](assets/f079.png)
+![bone](assets/f099.png)
 
 # Google Collab + PyTorch Notebooks:
 
