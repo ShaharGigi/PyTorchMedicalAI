@@ -28,7 +28,7 @@ Google Collab, Google Cloud, Python Jupyter
 
 # Labs:
 
-## Lab 0001: Deep Learning Computer Vision Crash Course with PyTorch 0.4 /1.0
+## Lab 0001: DevOps + DataLoaders for Deep Learning in PyTorch 0.4
 
 <img src="https://github.com/deeponcology/PyTorchMedicalAI/raw/master/assets/jupyter_colab.png" align="center" width=15%>
 
