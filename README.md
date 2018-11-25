@@ -1,4 +1,4 @@
-# Applied Deep Learning in Radiology, Oncology and Ptahology - 2019.
+# Applied Deep Learning in Radiology, Oncology and Pathology - 2019.
 
 ![bone](assets/7C4FCB54-6A0A-433F-A432-662C2E326381.png)
 
@@ -13,13 +13,13 @@ I hope you find this series of benefit to you in your practice. If you would lik
 
 Finally, we are also very grateful to Google for their administrative and logistical support (e.g. GPU’s) in the realization of this activity.
 
-## שם הקורס: למידה עמוקה ברפואה, רגיולוגיה ואונקולוגיה
-שפת לימוד הקורס: אנגלית 
+## שם הקורס: למידה עמוקה ברפואה, רדיולוגיה ואונקולוגיה
+
+### English / שפת לימוד הקורס: אנגלית 
 
 ### סילבוס בעברית 
 
 ### נושאי לימוד
-
 
 
 ## Old course:
