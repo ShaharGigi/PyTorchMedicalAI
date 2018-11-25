@@ -8,13 +8,15 @@
 Github: https://github.com/deeponcology/PyTorchMedicalAI
 
 ### Dear Colleagues,
-It is my pleasure to present this Deep Learning in Medical AI series which has been designed to highlight and summarize key concepts in the use of Deep Learning in medicine. This series set specifically focuses on Radiology, Oncology and Pathology.  
+The Medical AI industry is **deeply rooted in invention**. Data, technologies, and artificial intelligence (AI) algorithms create innovative products that diagnose, treat, and prevent cancer and other disease. Though, the rate at which AI can advance healthcare rests on on how rapidly the industry and healthcare leaders embrace it. This change is most apparent in medical imaging, where deep learning is controlling the research. 
 
-The area of deap learning research in oncology is a challenging and ever changing environment. Within this environment, we all value access to publicly available and annotated data and research which helps to educate and inspire further advancements in our roles as data scientists. 
+**It is my pleasure** to present this Deep Learning in Medical AI series which has been designed to highlight and summarize key concepts in the use of Deep Learning in medicine. This series set specifically focuses on Radiology, Oncology and Pathology.  
 
-I hope you find this series of benefit to you in your practice. If you would like to share your thoughts with us we would welcome your comments. Please send any correspondence to shlomo@deeponcology.ai.
+The area of deap learning research in oncology is a challenging and ever changing environment. Within this environment, we all value access to **publicly available and annotated data** and research which helps to educate and inspire further advancements in our roles as data scientists. 
 
-Finally, we are also very grateful to Google for their administrative and logistical support (e.g. GPU’s) in the realization of this activity.
+I hope you find this series of **benefit to you in your practice**. If you would like to share your thoughts with us we would welcome your comments. Please send any correspondence to shlomo@deeponcology.ai.
+
+Finally, we are also very grateful to **Google** for their administrative and logistical support (e.g. GPU’s) in the realization of this activity.
 
 ### English / שפת לימוד הקורס: אנגלית 
 
@@ -36,7 +38,7 @@ Kaggle Expert, Founder of Tel-Aviv Deep Learning Bootcamp: shlomo@deeponcology.a
 # Google Collab + PyTorch Notebooks:
 
 ## Requirements: 
-Knowledge of python programming Basics of linear algebra and statistics 
+Knowledge of python programming Basics of linear algebra and statistics. 
 
 ## Environment : 
 Google Collab, Google Cloud, Python Jupyter
