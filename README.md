@@ -5,8 +5,8 @@
 
 ![bone](assets/7C4FCB54-6A0A-433F-A432-662C2E326381.png)
 
--- Github: https://github.com/deeponcology/PyTorchMedicalAI
--- www.deeponcology.ai 
+- Github: https://github.com/deeponcology/PyTorchMedicalAI
+- www.deeponcology.ai 
 
 ### Dear Colleagues,
 The Medical AI industry is **deeply rooted in invention**. Data, technologies, and artificial intelligence (AI) algorithms create innovative products that diagnose, treat, and prevent cancer and other disease. Though, the rate at which AI can advance healthcare rests on on how rapidly the industry and healthcare leaders embrace it. This change is most apparent in medical imaging, where deep learning is controlling the research. 
