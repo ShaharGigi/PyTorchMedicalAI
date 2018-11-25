@@ -1,4 +1,4 @@
-# Applied Medical Deep Learning, 2019.
+# Applied Deep Learning in Radiology, Oncology and Ptahology - 2019.
 
 ![bone](assets/7C4FCB54-6A0A-433F-A432-662C2E326381.png)
 
@@ -12,6 +12,14 @@ The area of deap learning research in oncology is a challenging and ever changin
 I hope you find this series of benefit to you in your practice. If you would like to share your thoughts with us we would welcome your comments. Please send any correspondence to shlomo@deeponcology.ai.
 
 Finally, we are also very grateful to Google for their administrative and logistical support (e.g. GPU’s) in the realization of this activity.
+
+## שם הקורס: למידה עמוקה ברפואה, רגיולוגיה ואונקולוגיה
+שפת לימוד הקורס: אנגלית 
+
+### סילבוס בעברית 
+
+### נושאי לימוד
+
 
 
 ## Old course:
