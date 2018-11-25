@@ -4,7 +4,7 @@
 
 Github: https://github.com/deeponcology/PyTorchMedicalAI
 
-Dear Colleagues,
+### Dear Colleagues,
 It is my pleasure to present this Deep Learning in Medical AI series which has been designed to highlight and summarize key concepts in the use of Deep Learning in medicine. This series set specifically focuses on Radiology, Oncology and Pathology.  
 
 The area of deap learning research in oncology is a challenging and ever changing environment. Within this environment, we all value access to publicly available and annotated data and research which helps to educate and inspire further advancements in our roles as data scientists. 
