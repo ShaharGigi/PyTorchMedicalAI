@@ -1,8 +1,18 @@
-# Applied Medical Deep Learning, 2019
+# Applied Medical Deep Learning, 2019.
 
 ![bone](assets/7C4FCB54-6A0A-433F-A432-662C2E326381.png)
 
 Github: https://github.com/deeponcology/PyTorchMedicalAI
+
+Dear Colleagues,
+It is my pleasure to present this Deep Learning in Medical AI series which has been designed to highlight and summarize key concepts in the use of Deep Learning in medicine. This series set specifically focuses on Radiology, Oncology and Pathology.  
+
+The area of deap learning research in oncology is a challenging and ever changing environment. Within this environment, we all value access to publicly available and annotated data and research which helps to educate and inspire further advancements in our roles as data scientists. 
+
+I hope you find this series of benefit to you in your practice. If you would like to share your thoughts with us we would welcome your comments. Please send any correspondence to shlomo@deeponcology.ai.
+
+Finally, we are also very grateful to Google for their administrative and logistical support (e.g. GPU’s) in the realization of this activity.
+
 
 ## Old course:
 - https://github.com/deeponcology/applied-dl-2018
